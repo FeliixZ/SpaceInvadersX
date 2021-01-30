@@ -1,2 +1,2 @@
 # SpaceInvadersX
-An SpaceInvaders Game Project!
+A SpaceInvaders Game Project!
